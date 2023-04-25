@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/ryuya1123/My_Profile/master/profile-summary-card-output/omni/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/ryuya1123/My_Profile/master/profile-summary-card-output/omni/4-productive-time.svg)
+```
+
+    
